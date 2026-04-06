@@ -62,5 +62,6 @@ The testing ensured that major functionalities are working as expected. Some min
 
 ---
 
-## 👨‍💻 Author
-Your Name
+## Author
+Aastha Mehta 
+mehtaaastha456@gmail.com
