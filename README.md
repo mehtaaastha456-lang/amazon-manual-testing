@@ -19,6 +19,8 @@ This project demonstrates manual functional testing performed on the Amazon web 
 
 ---
 
+
+
 ##  Tools Used
 - Google Chrome
 - MS Excel
@@ -43,17 +45,27 @@ This project demonstrates manual functional testing performed on the Amazon web 
 
 ---
 
-##  API Testing (Postman)
-Basic API testing was performed using Postman to verify request-response behavior.
+## API Testing using Postman
 
-Example:
-- GET request for product data
-- Response validation (Status Code: 200 OK)
+API testing was performed using Postman to validate backend response.
 
----
-
+### Test Details:
+- Method: GET
+- Endpoint: https://fakestoreapi.com/products
+- Status Code: 200 OK
+Note: Amazon APIs are secured, so a public API was used for demonstrating API testing.
+### Result:
+The API returned a successful response with product data in JSON format
 ##  Screenshots
 Screenshots of test execution and defects are included.
+
+screenshots/cart.png
+screenshots/home.png
+screenshots/error.png
+screenshots/login.png
+screenshots/product.png
+screenshots/search.png
+screenshots/postman.png
 
 ---
 
